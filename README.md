@@ -1,3 +1,3 @@
 ***
-## _Course on algorithms from Stepik. Just some Java console_ 🖥️💻 _applications._
+## _Course on algorithms from Stepik. Just some Java_ 🖥️💻 _console applications._
 ***
